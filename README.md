@@ -1,4 +1,2 @@
 # docs
-Storage of projects docs.
-
-
+Storage Software Architect Document for projects.
